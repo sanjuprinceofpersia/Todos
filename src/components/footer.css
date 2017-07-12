@@ -1,0 +1,50 @@
+.footer{
+    border-top: 1px solid #ccc;
+    box-shadow: inset 0px 4px 3px -3px rgba(204,204,204,0.3);
+}
+
+.footer .filters{
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+	padding:10px;
+	margin:0px;
+}
+
+
+.footer .filters li{
+	/*padding:0 10px;*/
+}
+
+.footer .filters li span{
+	top:2px;
+	padding:0 5px;
+}
+
+.footer .filters li span.glyphicon-ok-circle{
+	color:#2E8B57;
+}
+
+.footer .filters li span.glyphicon-remove-circle{
+	color:#B22222;
+}
+
+.footer .filters li a:hover{
+	text-decoration: none;
+	outline: none;
+}
+
+.footer .filters li a:visited{
+	text-decoration: none;
+	outline: none;
+}
+
+.footer .filters li a:active{
+	text-decoration: none;
+	outline: none;
+}
+
+.footer .filters li a:focus{
+	text-decoration: none;
+	outline: none;
+}

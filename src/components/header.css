@@ -1,0 +1,9 @@
+.header{
+	padding: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	font-size: 50px;
+	font-weight: 100;
+	color: #20b2aa;
+}

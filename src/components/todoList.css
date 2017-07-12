@@ -1,0 +1,17 @@
+.todolist_container{
+	padding:10px;
+}
+
+.todolist_container ul{
+	list-style: none;
+}
+
+.todolist_container ul li{
+	font-style: italic;
+    color: #337ab7;
+}
+
+.todolist_container ul li.todo_completed{
+	text-decoration: line-through;
+	color:#FA8072;
+}

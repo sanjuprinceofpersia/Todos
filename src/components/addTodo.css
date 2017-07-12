@@ -1,0 +1,15 @@
+.add_todo_container{
+	padding: 10px;
+}
+
+.add_todo_form{
+
+}
+
+.add_todo_form .add_todo_text{
+	outline: none;
+}
+
+.add_todo_form .add_todo_submit{
+	outline: none;
+}
