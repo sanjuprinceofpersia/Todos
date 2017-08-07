@@ -5,7 +5,11 @@
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "react-redux": "5.0.5",
+    "react-router-dom": "4.1.2",
+    "redux-thunk": "2.2.0",
+    "bootstrap": "3.3.7"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,5 +17,21 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "A basic React Redux based todos application",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjuprinceofpersia/todos.git"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "Saurabh Kumar Verma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanjuprinceofpersia/todos/issues"
+  },
+  "homepage": "https://github.com/sanjuprinceofpersia/todos#readme"
 }
